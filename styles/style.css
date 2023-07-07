@@ -117,8 +117,8 @@ main {
 /* About me section end */
 
 /* what i do section start */
-.what-i{
-    margin-top: 130px;
+.what-i {
+  margin-top: 130px;
 }
 .skills {
   display: flex;
@@ -148,3 +148,42 @@ main {
   font-weight: 400;
 }
 /* what i do section end */
+
+/* A summary of My Resume start */
+.resume {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+.resume-title {
+  margin-top: 130px;
+  margin-bottom: 113px;
+  text-align: center;
+}
+.education-title {
+  margin-bottom: 30px;
+}
+.degree {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.institute {
+  margin-bottom: 10px;
+}
+.degree-des {
+  margin-bottom: 20px;
+}
+.a {
+  color: #757575;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+}
+.b{
+    color: #757575;
+}
+.cv-download{
+    text-align: center;
+    margin-top: 50px;
+}
+/* A summary of My Resume end */
