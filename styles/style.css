@@ -90,7 +90,7 @@ header {
 
 main {
   width: 1140px;
-  height: 550px;
+  /* height: 550px; */
   margin: 0 auto;
 }
 .about {
@@ -186,4 +186,37 @@ main {
     text-align: center;
     margin-top: 50px;
 }
+
 /* A summary of My Resume end */
+
+/* footer content start */
+
+.foot-content{
+    margin-top: 113px;
+    display: flex;
+    gap:117px;
+    padding: 130px 230px 130px 230px;
+    background-color: #FFF8F3;
+}
+.left-content{
+    width: 800px;
+}
+.form-message input[type="text"],input[type="email"],textarea{
+    padding: 18px 30px;
+    margin: 18px 0px;
+    width: 460px;
+    border: 0px;
+
+}
+.submit-btn{
+    background-color: #fd6e0a;
+    color: white;
+    /* width: 150px; */
+    padding: 19px 35px;
+    border: 0px;
+}
+.icons img{
+    margin-top: 30px;
+    margin-right: 24px;
+}
+/* footer content end */
